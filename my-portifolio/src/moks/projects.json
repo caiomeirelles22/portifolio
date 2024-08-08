@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Projeto 1",
+        "previewImage":"/nic-mobile.png",
+        "description": "Desenvolvi minha primeira landing page para um cliente real, um despachante de armas. O projeto foi construído utilizando HTML e CSS, com a adição de interatividade através de JavaScript. Também integrei as bibliotecas jQuery e Bootstrap para otimizar o design responsivo e a usabilidade.",
+        "linkCode": "https://github.com/caiomeirelles22/nichollas",
+        "linkPage": "https://caiomeirelles22.github.io/nichollas/"
+    }
+]
