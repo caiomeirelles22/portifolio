@@ -5,7 +5,7 @@ interface projectsProps {
 }
 export function Projects({projects}:projectsProps){
     return (
-        <div>
+        <div className="flex flex-col gap-8">
             {projects.map((project, key)=> {
                 return (
                     <Project title={project.title} previewImage={project.previewImage} linkPage={project.linkPage} description={project.description} linkCode={project.linkCode} key={key}/>

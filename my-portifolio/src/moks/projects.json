@@ -1,9 +1,72 @@
 [
     {
-        "title": "Projeto 1",
-        "previewImage":"/nic-mobile.png",
+        "title": "Gerador de carreira",
+        "previewImage": "/gerador-mobile.png",
+        "description": "Desenvolvi um site para gerar desafios no modo carreira do FIFA 23, onde os usuários recebem missões personalizadas. Eles podem escolher entre três níveis de dificuldade: 1, 2, ou 3. O site foi construído inteiramente com HTML, CSS e JavaScript, focando na simplicidade e na funcionalidade para criar uma experiência envolvente.",
+        "linkCode": "https://github.com/caiomeirelles22/geradorFifa",
+        "linkPage": "https://caiomeirelles22.github.io/geradorFifa/#"
+    },
+    {
+        "title": "Despachante Nichollas",
+        "previewImage": "/nic-mobile.png",
         "description": "Desenvolvi minha primeira landing page para um cliente real, um despachante de armas. O projeto foi construído utilizando HTML e CSS, com a adição de interatividade através de JavaScript. Também integrei as bibliotecas jQuery e Bootstrap para otimizar o design responsivo e a usabilidade.",
         "linkCode": "https://github.com/caiomeirelles22/nichollas",
         "linkPage": "https://caiomeirelles22.github.io/nichollas/"
+    },
+    {
+        "title": "Pokédex",
+        "previewImage": "/pokedex-mobile.png",
+        "description": "Desenvolvi uma Pokédex como meu primeiro projeto utilizando React. Além do React, usei Axios para consumir a API de Pokémon e Bootstrap para estilização. O projeto foi uma excelente oportunidade para aplicar conceitos fundamentais do React e aprimorar minhas habilidades em desenvolvimento front-end.",
+        "linkCode": "https://poke777.vercel.app/",
+        "linkPage": "https://github.com/caiomeirelles22/poke777"
+    },
+    {
+        "title": "Carta",
+        "previewImage": "/carta-mobile.png",
+        "description": "Criei uma carta interativa para o Dia dos Namorados utilizando React, explorando o controle de estado com useState e useEffect. Esse projeto permitiu adicionar elementos dinâmicos à experiência, tornando a carta personalizada e envolvente. Foi uma ótima oportunidade para aprofundar meus conhecimentos em gerenciamento de estado no React.",
+        "linkCode": "https://github.com/caiomeirelles22/carta",
+        "linkPage": "https://caiomeirelles22.github.io/carta/"
+    },
+    {
+        "title": "Pigz",
+        "previewImage": "/pigz-mobile.png",
+        "description": "Desenvolvi uma landing page para um marketplace de hamburguerias utilizando ReactJS. Meu foco principal nesse projeto foi aprimorar a componentização, organizando o código de forma a torná-lo mais modular e legível. Esse trabalho me ajudou a consolidar boas práticas de desenvolvimento e a criar uma base sólida para projetos futuros.",
+        "linkCode": "https://github.com/caiomeirelles22/pigz",
+        "linkPage": "https://caiomeirelles22.github.io/pigz/"
+    },
+    {
+        "title": "Games",
+        "previewImage": "/games-mobile.png",
+        "description": "Desenvolvi um catálogo de games utilizando Material UI para o design da interface, Axios para a integração com a API de jogos, e Styled Components para estilização personalizada. Esse projeto me permitiu criar uma aplicação visualmente atraente e funcional, ao mesmo tempo em que refinei minhas habilidades em design de componentes e integração de dados.",
+        "linkCode": "https://github.com/caiomeirelles22/games/",
+        "linkPage": "https://caiomeirelles22.github.io/games/"
+    },
+    {
+        "title": "Storybook",
+        "previewImage": "/storybook-mobile.png",
+        "description": "Desenvolvi um Storybook utilizando Vite, TypeScript e Radix, focando na criação e documentação de componentes reutilizáveis. Esse projeto me permitiu explorar o poder do TypeScript para garantir tipagem segura e utilizar a rapidez do Vite na construção do ambiente de desenvolvimento. Além disso, integrei Radix para criar componentes acessíveis e consistentes.",
+        "linkCode": "https://github.com/caiomeirelles22/05-design-system/",
+        "linkPage": "https://caiomeirelles22.github.io/05-design-system/"
+    },
+    {
+        "title": "Notes",
+        "previewImage": "/notes-mobile.png",
+        "description": "Desenvolvi uma aplicação de notas que permite adicionar notas tanto por texto quanto por voz. Utilizei Vite e TypeScript para garantir um desenvolvimento rápido e seguro, Radix para criar componentes acessíveis e Tailwind CSS para uma estilização ágil. Esse projeto me ajudou a integrar diversas tecnologias modernas em uma aplicação funcional e acessível.",
+        "linkCode": "https://github.com/caiomeirelles22/my-notes",
+        "linkPage": "https://my-notes-livid-eight.vercel.app/"
+    },
+    {
+        "title": "Candidato a vereador",
+        "previewImage": "/vereador-modelo-mobile.png",
+        "description": "Desenvolvi um site modelo para candidatos a vereador utilizando Next.js, TypeScript e Tailwind CSS. Para formular e validar dados de forma eficiente, integrei react-hook-form com validações utilizando Zod. Também usei Radix UI para criar componentes acessíveis e consistentes. O projeto focou em fornecer uma base sólida e moderna para campanhas políticas online.",
+        "linkCode": "https://github.com/caiomeirelles22/modelo",
+        "linkPage": "https://modelo-eight.vercel.app/"
+    },
+    {
+        "title": "Diarley",
+        "previewImage": "/diarley-mobile.png",
+        "description": "Desenvolvi um site real para um candidato a vereador, utilizando como base o modelo que criei anteriormente. O site foi construído com Next.js, TypeScript e Tailwind CSS, garantindo um design responsivo e moderno. Também implementei formulários interativos e validados com react-hook-form e Zod, além de componentes acessíveis com Radix UI. Esse projeto ajudou a trazer uma presença online profissional e eficaz para a campanha do candidato.",
+        "linkCode": "https://github.com/caiomeirelles22/diarley",
+        "linkPage": "https://diarley.vercel.app/"
     }
 ]
