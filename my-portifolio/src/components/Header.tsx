@@ -1,11 +1,14 @@
 export function Header() {
     return (
-        <header className="bg-primary text-primary-foreground py-12 md:py-20 px-4 md:px-6">
+        <header className="bg-primary text-primary-foreground p-4 md:p-6">
             <div className="container mx-auto max-w-4xl space-y-4">
                 <h1 className="text-4xl md:text-6xl font-bold tracking-tighter">Caio Meirelles</h1>
-                <p className="text-lg md:text-xl">
-                    Front-end Developer | Apaixonado por construir aplicativos web bonitos e funcionais.
+              <div className="flex flex-wrap items-center text-lg md:text-xl gap-0 md:gap-2">
+              <p>
+                    Front-end Developer | 
                 </p>
+                Criador de aplicativos web bonitos, funcionais e responsivos.
+              </div>
             </div>
         </header>
     )
